@@ -1,0 +1,40 @@
+project:
+  type: website
+  execute-dir: project
+  render:
+    - "*.qmd"
+    - "!CONTRIBUTIONG.md"
+    - "!LICENSE.md"
+
+website:
+  title: "ELIXIR Lesson Template - Quarto"
+  favicon: assets/elixir_favicon.ico
+  search: true
+  page-navigation: true
+  navbar:
+    # background: "#0c3450ff"
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - icon: github
+        href: https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-Quarto/
+        aria-label: GitHub
+  sidebar:
+    logo: assets/ELIXIR1.png
+
+format:
+  html:
+    code-link: true
+    theme: 
+      - default
+      - custom.scss
+    toc: true
+
+execute:
+  freeze: auto 
+  cache: true
+  tidy: true
+
+
+
