@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ELIXIR Lesson Title",
+    "section": "",
+    "text": "Erika Mustermann, The Institute of Great Science, Germany ORCiD\nMario Rossi, Awesome Research University, Italy ORCiD"
+  },
+  {
+    "objectID": "index.html#authors",
+    "href": "index.html#authors",
+    "title": "ELIXIR Lesson Title",
+    "section": "",
+    "text": "Erika Mustermann, The Institute of Great Science, Germany ORCiD\nMario Rossi, Awesome Research University, Italy ORCiD"
+  },
+  {
+    "objectID": "index.html#lesson-overview",
+    "href": "index.html#lesson-overview",
+    "title": "ELIXIR Lesson Title",
+    "section": "Lesson overview",
+    "text": "Lesson overview\n\n\n\n\n\n\nOverview\n\n\n\nAdd a short description of the training materail should be inserted here.\n↩︎️ Prerequisites\nTo be able to follow this course, learners should have knowledge in:\n\nFirst requirement\n\nSecond requirement\n\n↪️ Learning Outcomes: By the end of the course, learners will be able to:\n\nFirst item\nSecond item\n\n🧑‍🤝‍🧑 Target Audience: Researchers, undergraduate students, postgraduate students, etc…\n📈 Level: Beginner/Intermediate/Advanced\n🔓 License: Creative Commons Attribution 4.0 International License\n💰 Funding: This project has received funding from [name of funders]."
+  },
+  {
+    "objectID": "index.html#contributors",
+    "href": "index.html#contributors",
+    "title": "ELIXIR Lesson Title",
+    "section": "Contributors",
+    "text": "Contributors\n\nJim Support, The Institute of Great Science, Germany ORCiD\nAlice Helpful, Awesome Research University, Italy ORCiD"
+  },
+  {
+    "objectID": "index.html#citing-this-lesson",
+    "href": "index.html#citing-this-lesson",
+    "title": "ELIXIR Lesson Title",
+    "section": "Citing this lesson",
+    "text": "Citing this lesson\nPlease cite as:\n.."
+  },
+  {
+    "objectID": "index.html#setup",
+    "href": "index.html#setup",
+    "title": "ELIXIR Lesson Title",
+    "section": "Setup",
+    "text": "Setup\n\nData setup\nTo run this lesson you need to install data from …\n\n\nSoftware setup\nTo run this course you need to install… continue with software installation instructions"
+  }
+]
